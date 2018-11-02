@@ -1,1 +1,5 @@
-# test_react_project
+# Test_React_Project
+
+## 決め事
+- 作業をする際は、ブランチを作成し、作業を行う。
+- masterにマージする人は、PRを作成した人以外が実施する。
